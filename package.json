@@ -1,0 +1,19 @@
+{
+  "name": "acetogens.org-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somersbmatthews/acetogens.org-frontend.git"
+  },
+  "author": "Somers B Matthews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somersbmatthews/acetogens.org-frontend/issues"
+  },
+  "homepage": "https://github.com/somersbmatthews/acetogens.org-frontend#readme"
+}
